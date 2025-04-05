@@ -2,6 +2,7 @@
   "name": "parcel-hw",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://pro100mq.github.io/parcel-hw/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
